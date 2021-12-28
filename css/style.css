@@ -426,6 +426,7 @@ h2 {
     }
 }
 
+
 @media (max-width:350px) {
     .full-photo-instagram {
         width: 100px;
@@ -560,10 +561,10 @@ h2 {
         height: 80px;
     }
 }
-@media (max-width:800px) {
+ @media (max-width:800px) {
     .full-photo-map {
-        width: 400px;
-        height: 300px;
+        width: 350px;
+        height: 250px;
     }
 }
 
