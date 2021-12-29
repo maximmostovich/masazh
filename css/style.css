@@ -6,6 +6,7 @@
 }
 
 html,body {
+    background: url(../img/background.png);
     height: 100%;
     font-family: cursive;
 }
@@ -76,8 +77,6 @@ html,body {
 .header__list li a:hover {
     color: red;
 }
-
-
 .wr {
    display: flex;
    flex-direction: column;
